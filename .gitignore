@@ -36,4 +36,5 @@ terraform.rc
 terrademo/
 *.csv
 *.csv.gz
+.env
 
