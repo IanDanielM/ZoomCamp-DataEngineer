@@ -7,7 +7,7 @@ if 'data_exporter' not in globals():
 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "/home/src/magic-zoomcamp/translation.json"
 bucket_name = 'daniel-demage'
-project_id = 'translation-386809'
+project_id = ''
 table_name = 'nyc_green_taxi_data'
 root_path = f"{bucket_name}/{table_name}"
 
