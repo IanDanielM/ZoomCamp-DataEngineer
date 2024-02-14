@@ -38,7 +38,7 @@ def upload_blob(bucket_name, file_prefix, num_files):
 
 
 # Replace these with your own values
-bucket_name = 'daniel-demage'
+bucket_name = ''
 file_prefix = 'green_tripdata_2022-'
 num_files = 12
 
