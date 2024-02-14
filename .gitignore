@@ -37,4 +37,5 @@ terrademo/
 *.csv
 *.csv.gz
 .env
+*.parquet
 
