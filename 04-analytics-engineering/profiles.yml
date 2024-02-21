@@ -1,0 +1,12 @@
+ny_taxi:
+  outputs:
+    dev:
+      dbname: ny_taxidbt
+      host: localhost
+      pass: iamiandaniel
+      port: 5432
+      schema: public
+      threads: 1
+      type: postgres
+      user: daniel
+  target: dev

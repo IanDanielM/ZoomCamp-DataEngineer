@@ -39,3 +39,4 @@ terrademo/
 .env
 *.parquet
 02-workflow-orchestration
+*.log
